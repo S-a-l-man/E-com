@@ -1,0 +1,27 @@
+.bg-black {
+    background-color: black;
+}
+
+.black {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #7B0200;
+}
+
+.text-white {
+    color: white;
+}
+
+.grey {
+    color: grey;
+}
+
+.bg-white {
+    background-color: white;
+}
+.border-mycolor {
+    border-color:#7B0200 ;
+}
